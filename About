@@ -1,0 +1,28 @@
+# 🌐 Portfolio Website
+
+A sleek, responsive personal portfolio built with React and Tailwind CSS.
+
+## 🛠️ Tech Stack
+- React
+- Tailwind CSS
+- JavaScript (ES6+)
+- Vite or Create React App
+
+## 📂 Project Structure
+- `public/`: Static assets
+- `src/components/`: Reusable components
+- `src/pages/`: Page components
+
+## 🚀 Getting Started
+```bash
+npm install
+npm run dev
+```
+
+## 📸 Features
+- Responsive design
+- Dark mode toggle
+- Animated UI components
+
+---
+Made with 💙 by Kelvin Jones
